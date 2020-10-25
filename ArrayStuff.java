@@ -1,7 +1,7 @@
-/*
- * Programmer:
- * Date:
- * Purpose:
+/* 
+ * Programmer: Alex Chickowski
+ * Date: September 23, 2020
+ * Purpose: Complete simple tasks with arrays
  */
 
 import java.util.Scanner;
