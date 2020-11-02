@@ -47,7 +47,7 @@ public class ArrayStuff {
         		"Jupiter",
         		"Saturn",
         		"Uranus",
-        		"neptune"
+        		"Neptune"
         };
         
         // Print the first letter of the 7th planet from the sun        
@@ -62,8 +62,13 @@ public class ArrayStuff {
         planets[0] = planets[2].toUpperCase();
 
         // Print all of the elements of "planets" in reverse order.
-        for (int count = planets.length - 1; count >= 0; count--) {
-        	System.out.println(planets[count]);
-        }
+        System.out.println(planets[7]);
+        System.out.println(planets[6]);
+        System.out.println(planets[5]);
+        System.out.println(planets[4]);
+        System.out.println(planets[3]);
+        System.out.println(planets[2]);
+        System.out.println(planets[1]);
+        System.out.println(planets[0]);
     }
 }
