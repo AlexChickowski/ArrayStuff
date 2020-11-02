@@ -27,7 +27,7 @@ public class ArrayStuff {
         // Change the last element of "ages" to be the first element squared
         ages[4] = ages[0] * ages[0];
 
-        // TODO: Print all of the elements of "ages", one per line
+        // Print all of the elements of "ages", one per line
         System.out.println(ages[0]);
         System.out.println(ages[1]);
         System.out.println(ages[2]);
@@ -36,7 +36,7 @@ public class ArrayStuff {
  		
         // PART B
 
-        // TODO: Create AND initialize an array called "planets" that holds the
+        // Create AND initialize an array called "planets" that holds the
         // names of the planets in order from closest to the sun to farthest.
         // NOTE: Pluto is NOT a planet.
         String[] planets = {
