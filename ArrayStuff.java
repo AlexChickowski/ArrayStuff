@@ -55,8 +55,7 @@ public class ArrayStuff {
         
         // TODO: Change the name of our planet to be a word that the user inputs
         System.out.println("What do you want to rename Earth to be?");
-        String newEarth = input.next();
-        planets[2] = newEarth;
+        planets[2] = input.next();
 		
         // TODO: Replace the first planet with the planet at index 2, but with all
         // upper case letters.
