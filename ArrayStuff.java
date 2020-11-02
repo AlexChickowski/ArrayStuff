@@ -54,7 +54,7 @@ public class ArrayStuff {
         System.out.println(planets[6].charAt(0));
         
         // Change the name of our planet to be a word that the user inputs
-        System.out.println("What do you want to rename Earth to be?");
+        System.err.println("What do you want to rename Earth to be?");
         planets[2] = input.next();
 		
         // Replace the first planet with the planet at index 2, but with all
